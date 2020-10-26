@@ -15,7 +15,7 @@ Only files in audio format, as well as playlists, can be opened and added to pla
 
 ## Playlist
 
-Advanced function is adding and saving to playlist using :
+An advanced function is adding and saving a song to a playlist using :
  - two arrays of FilePath and FileName
  - try catch block with binary stream StreamReader and one for cycle    
  iterating throught FileName for adding a song to listbox playlist
